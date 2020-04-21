@@ -1,3 +1,5 @@
+<?php $customCSS=""; ?>
+
 <?php include "inc/html-top.php"; ?>
 
 <body>
@@ -53,6 +55,7 @@
     </aside>
 
 </div>
+<?php include "inc/scripts.php"; ?>
 </body>
 
 </html>

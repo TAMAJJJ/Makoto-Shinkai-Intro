@@ -1,3 +1,5 @@
+<?php $customCSS="<link rel='stylesheet' href='css/forms.css'>"; ?>
+
 <?php include "inc/html-top.php"; ?>
 
 <body>
@@ -39,6 +41,7 @@
     </form>
 
     </div><!--.container-->
+    <?php include "inc/scripts.php"; ?>
 </body>
 
 </html>
